@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Java24</name>
+=======
+	<name>corejava</name>
+>>>>>>> 5d2110d7c92d9d53905b9926c4b78827a1ab6e2a
 	<comment></comment>
 	<projects>
 	</projects>
