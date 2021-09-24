@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>NewJava25</name>
+=======
+ master
+	<name>Java24</name>
+	<name>Java3</name> 
+  nikunj
+	<name>corejava</name>
+>>>>>>> 8cd866f921b20b17ad38b9f8c9bdab5187027a9b
 	<comment></comment>
 	<projects>
 	</projects>
